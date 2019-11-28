@@ -1,0 +1,7 @@
+{
+    "port":"9990",
+    "host":"localhost",
+    "database":"JAVA",
+    "user":"dac",
+    "password":"dac"
+}
